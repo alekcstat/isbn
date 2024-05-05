@@ -12,3 +12,4 @@ steps:
   args: ['run', 'deploy', 'ntc-users-ms1', '--image', 'gcr.io/isbn-2024i-418315/ntc-users-ms1', '--region', 'us-east4']
 images:
 - gcr.io/isbn-2024i-418315/ntc-users-ms1
+#
